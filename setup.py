@@ -5,7 +5,7 @@ from distutils.core import setup
 
 setup(
     name='proxy2',
-    version='1.0',
+    version='0.1',
     description='HTTP/HTTPS proxy in a single python script',
     author='inaz2',
     author_email='',
